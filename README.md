@@ -2,7 +2,7 @@
   
   <br />
 
-  <a href="https://youtu.be/tS7upsfuxmo?feature=shared" target="_blank">
+  <a href="https://amir83nasr.github.io/Nike" target="_blank">
     <img src="https://github.com/adrianhajdin/nike_landing_page/assets/151519281/36013f49-ba13-47ad-a6c4-f9d58bfae7fc" alt="Project Banner">
   </a>
   
